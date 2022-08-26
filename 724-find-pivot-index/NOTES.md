@@ -7,5 +7,5 @@ now they are not equal from starting index 0  => now at next iteration lsum incr
 (3) lsum=8 , rsum = 17(subtracted index 2 value)
 (4) lsum=11 , rsum = 11(subtracted index 3 value)
 the 4th statement is actually
-lsum = 1+7+3 == rsum = 5+6
+lsum = 1+7+3 == rsum =5+6
 and index value is now 3
