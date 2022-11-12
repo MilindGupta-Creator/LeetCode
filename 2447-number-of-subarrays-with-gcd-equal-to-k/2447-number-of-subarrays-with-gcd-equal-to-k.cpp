@@ -33,7 +33,10 @@ public:
                     ans++;
                 }
                 
-                
+                if(gcd<k)
+                {
+                    break;
+                }
                     
             }
         }
