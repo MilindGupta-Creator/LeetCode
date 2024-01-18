@@ -1,7 +1,7 @@
 class Solution {
 public:
     int climbStairs(int n) {
-       if(n<=2)
+        if(n<=2)
            return n;
         
         int dp[n+1];
@@ -14,6 +14,5 @@ public:
         }
         
         return dp[n];
-        
     }
 };
